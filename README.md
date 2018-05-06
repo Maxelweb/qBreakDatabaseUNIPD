@@ -6,5 +6,5 @@ Progetto universitario dell'Università di Padova per il corso di Base di Dati, 
 
 ## Relatori
 
-  - Mariano Sciacco (marianosciacco.it)
-  - Enrico Buratto
+  - Mariano Sciacco ([@Maxelweb](https://marianosciacco.it))
+  - Enrico Buratto ([@enricobu96](https://github.com/enricobu96))
